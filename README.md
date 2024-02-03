@@ -1,6 +1,7 @@
 EN
 
 The application is used to estimate the return on investment achieved after a set period of time assuming a statistical annual growth rate at a specified level (calculated as a percentage change per month derived from the assumed annual return), dividends paid in a specified month, and asset repurchase as soon as the funds from dividends and additional investment contributions allow.
+
 For better visualization, Data to be provided before the program performs calculations:
 1.	The price of the asset you wish to purchase.
 2.	The month in which dividends are paid.
