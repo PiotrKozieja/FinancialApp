@@ -19,7 +19,10 @@ To use the application, you need to run the FinancialApp.java file and enter the
 You need to install Java Swing and Java AWT to use program.
 
 
+
+
 PL
+
 Aplikacja służy do oszacowania zwrotu z inwestycji osiągniętego po ustalonym czasie przy założeniu statystycznego rocznego wzrostu na ustalonym poziomie (liczonego w formie procentowej zmiany miesięcznej, wyciągniętej z zakładanego zwrotu rocznego), dywidendy wypłacanej w ustalonym miesiącu oraz dokupowaniu aktywa, gdy tylko środki wypłacane z dywidendy, oraz dopłaty na rzecz inwestycji na to pozwalają.
 
 Dla lepszego zobrazowania,
