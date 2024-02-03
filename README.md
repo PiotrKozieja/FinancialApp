@@ -15,6 +15,7 @@ How to use?
 To use the application, you need to run the FinancialApp.java file and enter the values you have decided to use for the calculations in the popup interface. After clicking "Calculate My Investment," the data for each month and the total investment return will be displayed in the terminal, and the data will also be saved in the FinancialData.csv file.
 
 !----Warning----!
+
 You need to install Java Swing and Java AWT to use program.
 
 
@@ -34,6 +35,7 @@ Dane które należy podać przed wykonaniem przez program kalkulacji:
 Jak użyć?
 
 Aby użyć aplikacji należy uruchomić plik FinancialApp.java i w wyskakującym interfejsie wpisać wartości, które zdecydowaliśmy się przyjąć do kalkulacji. Po przyciśnięciu „Calculate My Investment” w terminalu zostaną wypisane dane z każdego miesiąca oraz całkowity zwrot z inwestycji, dane zostaną również zapisane w pliku FinancialData.csv
+
 !----Uwaga----!
 
 Musisz zainstalować Java Swing oraz Java AWT aby używać programu.
